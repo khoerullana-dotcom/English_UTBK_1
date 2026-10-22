@@ -1,0 +1,6 @@
+{
+  "name": "Simulasi UTBK SNBT Literasi Bahasa Inggris 50 Soal",
+  "description": "Aplikasi kuis dan latihan 50 soal UTBK SNBT Literasi Bahasa Inggris untuk siswa kelas 12 SMA lengkap dengan teks bacaan otentik, timer CBT, kunci jawaban, dan pembahasan mendalam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
